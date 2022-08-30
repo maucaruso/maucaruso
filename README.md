@@ -1,9 +1,9 @@
 ## Olá! Eu me chamo Maurici Caruso!
 
 <div align="center">
-  <a href="https://github.com/maucaruso" style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maucaruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&nocache=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maucaruso&layout=compact&langs_count=7&theme=dark&nocache=2"/>
+  <a href="https://github.com/maucaruso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maucaruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&nocache=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maucaruso&layout=compact&langs_count=7&theme=dark&nocache=3"/>
 </div>
 
 <div style="display: inline_block"><br>

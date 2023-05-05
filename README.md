@@ -1,4 +1,4 @@
-## Hello! My name is Maurici Caruso!
+## Hello, welcome to my profile!
 
 <div align="left">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maucaruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&nocache=3"/>

@@ -1,5 +1,7 @@
 ## Hello, welcome to my profile!
 
+<a href="https://br.linkedin.com/in/maurici-caruso-junior-b51576157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <div align="left">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maucaruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&nocache=3"/>
     
@@ -22,8 +24,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
   ##
-<div> 
-  <a href="https://br.linkedin.com/in/maurici-caruso-junior-b51576157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+<div>   
   ![Snake animation](https://github.com/maucaruso/maucaruso/blob/output/github-contribution-grid-snake.svg)
 </div>

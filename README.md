@@ -23,7 +23,7 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
-  ##
-<div>   
-  ![Snake animation](https://github.com/maucaruso/maucaruso/blob/output/github-contribution-grid-snake.svg)
-</div>
+##
+
+![Snake animation](https://github.com/maucaruso/maucaruso/blob/output/github-contribution-grid-snake.svg)
+
